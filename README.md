@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Toludayo
-- 👀 I’m interested in data analysis especially medical or health analysis as it relates to my field.
+- 👀 I’m a health care data analyst 
 - 🌱 I’m currently learning power BI, SQL, Excel, python.
 - 💞️ I’m looking for more internships to hone my skills in data analysis 
 - 📫 You can reach me via my email- toluwadayo@gmail.com
